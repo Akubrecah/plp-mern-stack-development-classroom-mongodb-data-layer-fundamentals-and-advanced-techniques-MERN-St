@@ -1,0 +1,27 @@
+{
+  "name": "plp-mern-stack-development-classroom-mongodb-data-layer-fundamentals-and-advanced-techniques-mern-st",
+  "version": "1.0.0",
+  "description": "## Setup Instructions",
+  "main": "insert_books.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akubrecah/plp-mern-stack-development-classroom-mongodb-data-layer-fundamentals-and-advanced-techniques-MERN-St.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akubrecah/plp-mern-stack-development-classroom-mongodb-data-layer-fundamentals-and-advanced-techniques-MERN-St/issues"
+  },
+  "homepage": "https://github.com/Akubrecah/plp-mern-stack-development-classroom-mongodb-data-layer-fundamentals-and-advanced-techniques-MERN-St#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongodb": "^6.20.0"
+  }
+}
